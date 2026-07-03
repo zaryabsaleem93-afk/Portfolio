@@ -3,7 +3,7 @@ import PageTransition from '../components/PageTransition'
 import { useScrollReveal } from '../components/useScrollReveal'
 import './Home.css'
 
-const PROFILE_IMG = 'https://zaryabsaleem.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-5.37.06-PM-747x1024.jpeg'
+const PROFILE_IMG = 'https://zaryabsaleem.com/demo/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-5.37.06-PM-747x1024.jpeg'
 
 const expertise = [
   {
@@ -34,19 +34,19 @@ const featuredProjects = [
   {
     name: 'Amin Cosmetic Surgery',
     desc: 'Medical and cosmetic clinic site with clean layout and appointment booking.',
-    img: 'https://zaryabsaleem.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-25-at-11.49.16-AM.jpeg',
+    img: 'https://zaryabsaleem.com/demo/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-25-at-11.49.16-AM.jpeg',
     url: 'https://amincosmeticsurgery.net/',
   },
   {
     name: 'Riva Interactive',
     desc: 'Game development and tech service platform built for innovation and creativity.',
-    img: 'https://zaryabsaleem.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-25-at-11.47.57-AM.jpeg',
+    img: 'https://zaryabsaleem.com/demo/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-25-at-11.47.57-AM.jpeg',
     url: 'https://rivainteractive.com/',
   },
   {
     name: 'Tabaruk',
     desc: 'Elegant Islamic e-commerce store offering quality products with a premium interface.',
-    img: 'https://zaryabsaleem.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-25-at-1.29.45-PM.jpeg',
+    img: 'https://zaryabsaleem.com/demo/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-25-at-1.29.45-PM.jpeg',
     url: 'https://www.tabaruk.pk/',
   },
 ]

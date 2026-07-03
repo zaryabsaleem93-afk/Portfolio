@@ -29,7 +29,7 @@ export default function About() {
           <div className="about-grid">
             <div className="about-image reveal">
               <img
-                src="https://zaryabsaleem.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-5.37.06-PM.jpeg"
+                src="https://zaryabsaleem.com/demo/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-5.37.06-PM.jpeg"
                 alt="Muhammad Zaryab Saleem"
               />
               <div className="about-image-label">

@@ -9,6 +9,7 @@ const links = [
   { to: '/projects', label: 'Projects' },
   { to: '/academic', label: 'Academic' },
   { to: '/contact', label: 'Contact' },
+  
 ]
 
 export default function Navbar() {
